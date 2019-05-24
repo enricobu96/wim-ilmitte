@@ -1,0 +1,63 @@
+%**************************************************************
+% Frontespizio 
+%**************************************************************
+
+\begin{titlepage}
+
+\begin{figure}[htbp]
+\flushright
+\includegraphics[height=2cm]{img/log_uni}
+\end{figure}
+
+\begin{center}
+\begin{vplace}
+\begin{LARGE}
+\textbf{Università degli Studi di Padova} \\
+\end{LARGE}
+
+
+\vspace{8pt}
+
+\begin{Large}
+\textsc{Dipartimento di Matematica "Tullio Levi-Civita"} \\
+\end{Large}
+
+\vspace{8pt}
+
+\begin{large}
+\textsc{Corso di Laurea in Informatica}\\
+\end{large}
+
+\vspace{60pt}
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width=\textwidth]{img/logo}
+\end{center}
+\end{figure}
+\vspace{60pt} 
+
+\begin{LARGE}
+\begin{center}
+\textbf{Analisi di usabilità del sito \\ \href{http://www.ilmitte.com/}{ilMitte.com}} \\
+\end{center}
+\end{LARGE}
+
+\vspace{30pt}
+
+\begin{large}
+Enrico Buratto \\
+1142644
+\end{large}
+
+\end{vplace}
+
+\line(1, 0){338} \\
+
+\vspace{10pt}
+
+\begin{normalsize}
+\textsc{Anno Accademico 2018-2019}
+\end{normalsize}
+
+\end{center}
+\end{titlepage} 
