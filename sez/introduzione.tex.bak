@@ -1,10 +1,6 @@
 \newpage
 \section{Introduzione}
-Il giorno 20 dicembre 1990, l'umanità ha potuto assistere al lancio di quella che forse è la più grande invenzione di sempre dopo quello del 27 settembre 1825\footnote{Il 27 settembre 1825, la Locomotion n.1 progettata dall'ingegner George Stephenson lasciò per la prima volta la stazione di Stockton on Tees, e arrivò successivamente a Darlington. Si tratta del primo treno progettato per il trasporto umano.}: il \textit{World Wide Web}.
-\\
-blah blah introduzione
-\\
-Questo documento propone un'analisi di usabilità del sito \href{https://ilmitte.com}{ilMitte}. Il sito è stato esaminato durante la prima settimana di Giugno 2019.
+Questo documento propone un'analisi di usabilità del sito \href{https://ilmitte.com}{ilMitte}. Il sito è stato esaminato durante il mese di giugno; nonostante questo, si è fatto affidamento alla versione salvata il giorno 6 maggio 2019 dalla \textit{Wayback Machine} del sito \href{https://web.archive.org/web/}{web.archive.com}, poiché il sito al momento dell'analisi presentava dei problemi di immagini e link corrotti. Il problema è stato segnalato allo staff che ha in gestione il sito.
 
 \vspace{30pt}
 \begin{figure}[htbp]
