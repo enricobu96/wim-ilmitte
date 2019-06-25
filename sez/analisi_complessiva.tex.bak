@@ -8,10 +8,37 @@ Un simile discorso si può fare per quanto riguarda le pagine interne: la scelta
 
 \subsection{Pubblicità}
 Il sito possiede due slot per l'inserimento di pubblicità, per il momento ancora vuoti (pubblicizzano infatti lo slot stesso).
-%IMMAGINE DEI BANNER PUBBLICITARI
+
+\vspace{30pt}
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width=30em]{img/pubblicita1}
+\caption{Pubblicità in alto}
+\end{center}
+\end{figure}
+\vspace{30pt}
+
+\vspace{30pt}
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width=30em]{img/pubblicita2}
+\caption{Pubblicità a lato dell'articolo}
+\end{center}
+\end{figure}
+\vspace{30pt}
+
 Le posizioni sono rispettivamente in alto in centro (affianco al logo) e sul lato destro degli articoli. Si può dire poco a proposito poiché vuoti, ma le posizioni sono comunque ottimali: %GUARDARE SUL QUADERNO I POSIZIONAMENTI
 
 \subsection{404}
 Il sito prevede una \textit{pagina di 404}, molto utile a tranquillizzare l'utente in caso in cui manchi una risorsa cercata.
-%IMMAGINE 404
+
+\vspace{30pt}
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width=30em]{img/404}
+\caption{La pagina d'errore}
+\end{center}
+\end{figure}
+\vspace{30pt}
+
 La pagina non è particolarmente curata, ma svolge il suo lavoro; propone infatti all'utente più scappatoie dalla pagina, poiché si può tornare alla Homepage oppure saltare direttamente a uno degli ultimi sei articoli pubblicati.
