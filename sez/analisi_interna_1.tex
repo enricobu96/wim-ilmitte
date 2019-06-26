@@ -1,8 +1,9 @@
 \newpage
 \section{Analisi di una pagina interna}
-Oltre alla Homepage è stata analizzata anche una pagina interna, nello specifico la pagina di un articolo; tutte le altre pagine di interesse per l'utente (quindi escludendo le pagine Contatti, Collabora e quella pubblicitaria) presentano la stessa struttura.
+Oltre alla Homepage è stata analizzata anche una pagina interna, nello specifico la pagina di un articolo; tutte le altre pagine di interesse per l'utente (quindi escludendo le pagine \texttt{Contatti}, \texttt{Collabora} e quella relativa alle pubblicità) presentano la stessa struttura.
+
 \subsection{Visione d'insieme}
-La pagina di un articolo presenta alcuni elementi coerenti alla homepage. Come nella pagina principale sono presenti infatti l'header con il logo, il menù e i link alle altre pagine, e il footer, il quale però non è di particolare rilevanza neanche in questo caso. \\
+La pagina di un articolo presenta alcuni elementi coerenti alla Homepage. Come nella pagina principale sono presenti infatti l'header con il logo, il menù e i link alle altre pagine, e il footer, il quale però non è di particolare rilevanza neanche in questo caso. \\
 
 \vspace{30pt}
 \begin{figure}[htbp]
@@ -14,21 +15,23 @@ La pagina di un articolo presenta alcuni elementi coerenti alla homepage. Come n
 \vspace{30pt}
 
 All'apertura della pagina ci si trova davanti alla grande immagine di anteprima dell'articolo: talmente tanto grande che a volte non permette neanche la completa lettura del titolo, e non fornisce quindi alcuna informazione aggiuntiva. Qui di seguito verranno analizzati nel dettaglio tutti gli aspetti.
+
 \subsection{Le 5+1 W}
-\paragraph*{Le 5+1 W per le pagine interne} Per quanto riguarda le pagine interne, si può generalmente supporre che l'utente abbia bisogno di meno assi informativi rispetto a quelli necessari per la Homepage. Nello specifico, le domande \textsc{When}, \textsc{Why} e \textsc{How} assumono una rilevanza marginale rispetto a \textsc{Where}, \textsc{Who} e \textsc{What}, i quali restano fondamentali e, anzi, diventano più importanti.
+
+\paragraph*{Le 5+1 W per le pagine interne} Per quanto riguarda le pagine interne, si può generalmente supporre che l'utente abbia bisogno di meno assi informativi rispetto a quelli necessari per la Homepage. Nello specifico, le domande \textsc{When}, \textsc{Why} e \textsc{How} assumono una rilevanza marginale rispetto a \textsc{Where}, \textsc{Who} e \textsc{What}, le quali restano fondamentali e, anzi, diventano più importanti.
 
 \subsubsection{Where?}
-La domanda \textsc{dove mi trovo?} trova risposta nel breadcrumb 	presente appena sotto al menù. Esso dovrebbe probabilmente fornire il percorso che ha condotto l'utente all'articolo aperto; essendo però tutti gli articoli passati per la Homepage, il percorso risulta essere sempre\footnote{Non è stato eseguito un test su ogni pagina, di conseguenza è scorretto dire sempre; nonostante questo, è stato provato con più articoli per ogni categoria, e il risultato è sempre quello riscontrato.} lo stesso: \textit{Home\textgreater}\textit{Apertura\textgreater}\textit{Nome dell'articolo}; di conseguenza questo breadcrumb è inutile.\\
-Oltre a questo problema, il testo del Breadcrumb è stato posto in sovrapposizione all'immagine di anteprima: questo lo rende spesso poco visibile, e quindi ancor meno utile. \\
+La domanda \textsc{dove mi trovo?} trova risposta nel breadcrumb presente appena sotto al menù. Esso dovrebbe probabilmente fornire il percorso che ha condotto l'utente all'articolo aperto; essendo però tutti gli articoli passati per la Homepage, il percorso risulta essere sempre\footnote{Non è stato eseguito un test su ogni pagina, di conseguenza è scorretto dire sempre; nonostante questo, è stato provato con più articoli per ogni categoria, e il risultato è sempre quello riscontrato.} lo stesso: \textit{Home\textgreater}\textit{Apertura\textgreater}\textit{Nome dell'articolo}; di conseguenza questo breadcrumb è inutile.\\
+In aggiunta a questo problema, il testo del Breadcrumb è stato posto in sovrapposizione all'immagine di anteprima: questo lo rende spesso poco visibile, e quindi ancor meno utile. \\
 
 \subsubsection{Who?}
-La risposta alla domanda \textsc{chi c'è dietro al sito?} coincide con quanto detto riguardo alla homepage. A questo si aggiunge poi il nome dell'autore dell'articolo, il quale è situato appena sotto al nome dell'articolo (ed è perciò necessario fare uno scroll per poterlo leggere).
+La risposta alla domanda \textsc{chi c'è dietro al sito?} coincide con quanto detto riguardo alla Homepage. A questo si aggiunge poi il nome dell'autore dell'articolo, il quale è situato appena sotto al nome dell'articolo (ed è perciò necessario fare uno scroll per poterlo leggere).
 
 \subsubsection{What?}
-\textsc{Cosa mi offre la pagina?} La risposta alla domanda è immediata: nella pagina è possibile trovare l'articolo, e il nome di questo si trova (spesso, ma non sempre) nella prima schermata). 
+\textsc{Cosa mi offre la pagina?} La risposta alla domanda è immediata: nella pagina è possibile trovare l'articolo e il nome di questo si trova nella prima schermata, fatta eccezione per gli articoli con un titolo lungo, il quale ne esce in parte.
 
 \subsubsection{Why?}
-\textsc{Perché sono qui?} Anche in questo caso la risposta è lapalissiana: per leggere l'articolo.
+\textsc{Perché sono qui?} Anche in questo caso la risposta è lapalissiana: il motivo per cui l'utente si trova nella pagina è per leggere l'articolo.
 
 \subsubsection{When?}
 \textsc{Quali sono le ultime novità?} Essendo la pagina un articolo, le uniche novità possono venire dai commenti. In fondo ad ogni articolo, infatti, è stato implementato un sistema di commenti utilizzando il Social Network Facebook; l'unico contenuto dinamico della pagina, e quindi l'unico cambiamento che l'utente si aspetta, risiede in questo.

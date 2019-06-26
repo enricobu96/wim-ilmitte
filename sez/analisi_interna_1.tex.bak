@@ -1,6 +1,7 @@
 \newpage
 \section{Analisi di una pagina interna}
-Oltre alla Homepage è stata analizzata anche una pagina interna, nello specifico la pagina di un articolo; tutte le altre pagine di interesse per l'utente (quindi escludendo le pagine Contatti, Collabora e quella pubblicitaria) presentano la stessa struttura.
+Oltre alla Homepage è stata analizzata anche una pagina interna, nello specifico la pagina di un articolo; tutte le altre pagine di interesse per l'utente (quindi escludendo le pagine \texttt{Contatti}, \texttt{Collabora} e quella relativa alle pubblicità) presentano la stessa struttura.
+
 \subsection{Visione d'insieme}
 La pagina di un articolo presenta alcuni elementi coerenti alla homepage. Come nella pagina principale sono presenti infatti l'header con il logo, il menù e i link alle altre pagine, e il footer, il quale però non è di particolare rilevanza neanche in questo caso. \\
 
