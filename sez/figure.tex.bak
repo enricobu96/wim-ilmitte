@@ -1,0 +1,23 @@
+\listoffigures
+\section*{Elenco delle figure - Files e origine}
+\vspace{20pt}
+\begin{table}[htbp]
+\centering
+\begin{tabular}{|l|l|p{0.65\linewidth}|}
+\hline
+\textbf{Figura} & \textbf{File immagine} & \textbf{URL}                                                                                          \\ \hline
+1               & logo.png               & \url{www.ilmitte.com                                                                                          } \\
+2               & home1.png              & \url{www.ilmitte.com                                                                                          } \\
+3               & home2.png              & \url{www.ilmitte.com}                                                                                           \\
+4               & home3.png              & \url{www.ilmitte.com                                                                                          } \\
+5               & home4.png              & \url{www.ilmitte.com                                                                                          } \\
+6               & chisiamo.png               & \url{www.ilmitte.com/chi-siamo/                                                                               } \\
+7               & menu.png                   & \url{www.ilmitte.com                                                                                          } \\
+8               & ricerca.png                & \url{www.ilmitte.com/?s=miguel                                                                                } \\
+9               & barraricerca.png           & ilmitte.com                                                                                           \\
+10              & articolo.png               & ilmitte.com/2019/04/miguel-gobbo-diaz-sul-set-di-flatmates-a-berlino-viva-il-lupo-sempre/ \\
+11              & pubblicita1.png            & ilmitte.com                                                                                           \\
+12              & pubblicita2.png            & ilmitte.com/2019/04/miguel-gobbo-diaz-sul-set-di-flatmates-a-berlino-viva-il-lupo-sempre/ \\
+13              & 404.png                    & ilmitte.com/error                                                                                       \\ \hline
+\end{tabular}
+\end{table}
